@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/sudoku-mastermind-331600-331615/frontend_app"
+}
